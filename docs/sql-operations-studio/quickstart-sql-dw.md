@@ -1,6 +1,6 @@
 ---
-title: "快速入門： 連接並查詢 Azure SQL 資料倉儲，使用 SQL 作業 Studio （預覽） |Microsoft 文件"
-description: "本快速入門示範如何使用連接到 SQL 資料庫並執行查詢的 SQL 作業 Studio （預覽）"
+title: "快速入門： 連接並查詢 Azure SQL 資料倉儲，使用 SQL Operations Studio （預覽） |Microsoft 文件"
+description: "本快速入門示範如何使用連接到 SQL 資料庫並執行查詢的 SQL Operations Studio （預覽）"
 ms.custom: tools|sos
 ms.date: 03/08/2018
 ms.prod: sql-non-specified
@@ -24,7 +24,7 @@ ms.lasthandoff: 03/09/2018
 
 本快速入門示範如何使用[!INCLUDE[name-sos](../includes/name-sos-short.md)]連接到 Azure SQL 資料倉儲，並再使用 TRANSACT-SQL 陳述式來建立、 插入和選取的資料。 
 
-## <a name="prerequisites"></a>필수 구성 요소
+## <a name="prerequisites"></a>必要條件
 若要完成本快速入門，您需要[!INCLUDE[name-sos](../includes/name-sos-short.md)]，和 Azure SQL 資料倉儲。
 
 - [安裝[!INCLUDE[name-sos](../includes/name-sos-short.md)] ](download.md)。
